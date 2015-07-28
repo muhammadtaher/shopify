@@ -1,0 +1,12 @@
+.image
+  = image_tag(@image.src)
+%h1
+  = @variant.title
+%h2
+Options:
+%ul
+  - @product.options.count.times do |i|
+    %li
+      = @variant.attributes["option#{i+1}"]
+  
+

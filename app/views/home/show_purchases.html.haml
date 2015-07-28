@@ -1,0 +1,35 @@
+%center
+  %h1 
+    Customers/Orders
+  %table{border: "1", style:"font-size: 20px"}
+    %tr
+      %th
+        Customer ID
+      %th
+        Variant ID
+      %th
+        Product ID
+      %th
+        Order ID
+      %th
+        Date of Order
+      %th
+        Quantity
+      %th
+        Price
+    - @purchases.each do |purchase|
+      %tr
+        %td
+          = link_to purchase.customer_id, show_customer_orders_path(customer_id: purchase.customer_id)
+        %td
+          = link_to purchase.variant_id, show_variant_path(product_id:purchase.product_id, variant_id:purchase.variant_id)
+        %td
+          = link_to purchase.variant_id, show_product_path(product_id:purchase.product_id)
+        %td
+          = purchase.order_id
+        %td
+          = purchase.ordered_at
+        %td
+          = purchase.quantity
+        %td
+          = purchase.price

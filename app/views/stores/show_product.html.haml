@@ -1,0 +1,38 @@
+.image
+  - if @product.images.count > 0
+    = image_tag((@product.images.first.src))
+
+
+%h1
+  = @product.title
+
+%h2
+  Type: 
+= @product.product_type
+
+%p
+  %strong
+    Product Id:
+  = @product.id
+
+%p
+  %strong
+    Description:
+  =raw @product.body_html
+%h2
+  Variants:
+%ul
+- @product.variants.each do |variant|
+  %li
+    = link_to variant.title, show_variant_path(product_id: @product.id, variant_id: variant.id)
+%h2
+  Options:
+%ul
+- @product.options.each do |option|
+  %li
+    Name: 
+    = option.name
+    , Values: 
+    = option.values
+
+

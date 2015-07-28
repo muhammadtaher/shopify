@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: MyString
+  variant_id: MyString
+  ordered_at: 2015-07-27
+  order_id: MyString
+
+two:
+  customer_id: MyString
+  variant_id: MyString
+  ordered_at: 2015-07-27
+  order_id: MyString

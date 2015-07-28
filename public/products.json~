@@ -1,0 +1,197 @@
+{
+  "id": 1229861637,
+  "title": "Apple iPhone 5S",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n<p>A 64-bit architecture chip, fingerprint identity technology, the finest optic engineering, and fully loaded OS come together to make the iPhone 5S. The phone is eons ahead of its time, and is quite the technological marvel.</p>\n<p>The colors of the iPhone 5S have been chosen based on how they stand in a worldly view- how much of the color is seen around us, how appealing is it to the human eye. Rest assured that all of these colors are known to have value and elicit a particular emotion. We made certain associations with the colors, and this has been scientifically proven. All the colors of the iPhone 5S will draw out certain sentiments in you.</p>",
+  "vendor": "newapp",
+  "product_type": "Phones",
+  "created_at": "2015-07-23T10:47:54-04:00",
+  "handle": "apple-iphone-5s",
+  "updated_at": "2015-07-26T05:36:55-04:00",
+  "published_at": "2015-07-23T10:37:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x00000004e8fdb0>",
+    "#<ShopifyAPI::Variant:0x00000004e7b450>",
+    "#<ShopifyAPI::Variant:0x00000004e663c0>",
+    "#<ShopifyAPI::Variant:0x00000004e470d8>",
+    "#<ShopifyAPI::Variant:0x00000004e2ab40>",
+    "#<ShopifyAPI::Variant:0x00000004e142c8>",
+    "#<ShopifyAPI::Variant:0x00000004df5580>",
+    "#<ShopifyAPI::Variant:0x00000004de01d0>",
+    "#<ShopifyAPI::Variant:0x00000004dc2338>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x00000004d97610>",
+    "#<ShopifyAPI::Option:0x00000004d954a0>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x00000004d83d90>",
+    "#<ShopifyAPI::Image:0x00000004d80140>",
+    "#<ShopifyAPI::Image:0x00000004d756f0>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x00000004d62f28>"
+}{
+  "id": 1230604677,
+  "title": "HP 15 G023NE Laptop",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"><span>Replace your old computer with the powerful HP 15 g023ne Notebook. The state of the portable computer comes fitted with advanced internal components like Dual Core AMD E1 2100 APU, 4GB RAM, and AMD Radeon HD 8210 Graphics processor that boost its overall performance by leaps and bounds. The device’s 15.6inch HD BrightView WLED backlit display churns out eye popping 1366 x 768p resolution images, making the computer ideal for watching movies, gaming, viewing high resolution photos, and all other tasks. The computer’s 802.11b/g/n specification WiFi and integrated 10/100 BASE T Ethernet LAN enable you to access both wired and wireless Internet. Built in 500GB SATA hard drive ensures you get ample space to save all your digital data securely. The notebook’s overall measurements of 37.8 x 26 x 2.5cm and a total weight of 2.23kg make it extremely portable.</span>",
+  "vendor": "newapp",
+  "product_type": "Laptops",
+  "created_at": "2015-07-23T12:05:18-04:00",
+  "handle": "hp-15-g023ne-laptop",
+  "updated_at": "2015-07-26T05:31:35-04:00",
+  "published_at": "2015-07-23T12:00:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x00000004d41d50>",
+    "#<ShopifyAPI::Variant:0x00000004d2d440>",
+    "#<ShopifyAPI::Variant:0x00000004d16178>",
+    "#<ShopifyAPI::Variant:0x00000004cf9640>",
+    "#<ShopifyAPI::Variant:0x00000004cd6280>",
+    "#<ShopifyAPI::Variant:0x00000004cb9d10>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x00000004c8e9f8>",
+    "#<ShopifyAPI::Option:0x00000004c8c978>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x00000004c803d0>",
+    "#<ShopifyAPI::Image:0x00000004c754a8>",
+    "#<ShopifyAPI::Image:0x00000004c6ff30>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x00000004c6c718>"
+}{
+  "id": 1229861637,
+  "title": "Apple iPhone 5S",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n<p>A 64-bit architecture chip, fingerprint identity technology, the finest optic engineering, and fully loaded OS come together to make the iPhone 5S. The phone is eons ahead of its time, and is quite the technological marvel.</p>\n<p>The colors of the iPhone 5S have been chosen based on how they stand in a worldly view- how much of the color is seen around us, how appealing is it to the human eye. Rest assured that all of these colors are known to have value and elicit a particular emotion. We made certain associations with the colors, and this has been scientifically proven. All the colors of the iPhone 5S will draw out certain sentiments in you.</p>",
+  "vendor": "newapp",
+  "product_type": "Phones",
+  "created_at": "2015-07-23T10:47:54-04:00",
+  "handle": "apple-iphone-5s",
+  "updated_at": "2015-07-26T05:36:55-04:00",
+  "published_at": "2015-07-23T10:37:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x007fee4823fb20>",
+    "#<ShopifyAPI::Variant:0x007fee4823d208>",
+    "#<ShopifyAPI::Variant:0x007fee48223380>",
+    "#<ShopifyAPI::Variant:0x007fee48222098>",
+    "#<ShopifyAPI::Variant:0x007fee482201f8>",
+    "#<ShopifyAPI::Variant:0x007fee4820ad08>",
+    "#<ShopifyAPI::Variant:0x007fee482099a8>",
+    "#<ShopifyAPI::Variant:0x007fee48208580>",
+    "#<ShopifyAPI::Variant:0x007fee4818f130>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x007fee4818d880>",
+    "#<ShopifyAPI::Option:0x007fee4818d358>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x007fee4818c868>",
+    "#<ShopifyAPI::Image:0x007fee4818c1d8>",
+    "#<ShopifyAPI::Image:0x007fee48177a58>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x007fee48176e28>"
+}{
+  "id": 1230604677,
+  "title": "HP 15 G023NE Laptop",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"><span>Replace your old computer with the powerful HP 15 g023ne Notebook. The state of the portable computer comes fitted with advanced internal components like Dual Core AMD E1 2100 APU, 4GB RAM, and AMD Radeon HD 8210 Graphics processor that boost its overall performance by leaps and bounds. The device’s 15.6inch HD BrightView WLED backlit display churns out eye popping 1366 x 768p resolution images, making the computer ideal for watching movies, gaming, viewing high resolution photos, and all other tasks. The computer’s 802.11b/g/n specification WiFi and integrated 10/100 BASE T Ethernet LAN enable you to access both wired and wireless Internet. Built in 500GB SATA hard drive ensures you get ample space to save all your digital data securely. The notebook’s overall measurements of 37.8 x 26 x 2.5cm and a total weight of 2.23kg make it extremely portable.</span>",
+  "vendor": "newapp",
+  "product_type": "Laptops",
+  "created_at": "2015-07-23T12:05:18-04:00",
+  "handle": "hp-15-g023ne-laptop",
+  "updated_at": "2015-07-26T05:31:35-04:00",
+  "published_at": "2015-07-23T12:00:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x007fee48175140>",
+    "#<ShopifyAPI::Variant:0x007fee48173c50>",
+    "#<ShopifyAPI::Variant:0x007fee48172a80>",
+    "#<ShopifyAPI::Variant:0x007fee481718b0>",
+    "#<ShopifyAPI::Variant:0x007fee48170258>",
+    "#<ShopifyAPI::Variant:0x007fee4814ae18>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x007fee481496a8>",
+    "#<ShopifyAPI::Option:0x007fee48149158>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x007fee481486b8>",
+    "#<ShopifyAPI::Image:0x007fee48148078>",
+    "#<ShopifyAPI::Image:0x007fee48133970>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x007fee48132930>"
+}{
+  "id": 1229861637,
+  "title": "Apple iPhone 5S",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n<p>A 64-bit architecture chip, fingerprint identity technology, the finest optic engineering, and fully loaded OS come together to make the iPhone 5S. The phone is eons ahead of its time, and is quite the technological marvel.</p>\n<p>The colors of the iPhone 5S have been chosen based on how they stand in a worldly view- how much of the color is seen around us, how appealing is it to the human eye. Rest assured that all of these colors are known to have value and elicit a particular emotion. We made certain associations with the colors, and this has been scientifically proven. All the colors of the iPhone 5S will draw out certain sentiments in you.</p>",
+  "vendor": "newapp",
+  "product_type": "Phones",
+  "created_at": "2015-07-23T10:47:54-04:00",
+  "handle": "apple-iphone-5s",
+  "updated_at": "2015-07-26T05:36:55-04:00",
+  "published_at": "2015-07-23T10:37:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x007fee554a1708>",
+    "#<ShopifyAPI::Variant:0x007fee55496d58>",
+    "#<ShopifyAPI::Variant:0x007fee55494238>",
+    "#<ShopifyAPI::Variant:0x007fee55485508>",
+    "#<ShopifyAPI::Variant:0x007fee5547a838>",
+    "#<ShopifyAPI::Variant:0x007fee5546bb08>",
+    "#<ShopifyAPI::Variant:0x007fee554691a0>",
+    "#<ShopifyAPI::Variant:0x007fee5545a1c8>",
+    "#<ShopifyAPI::Variant:0x007fee5544f250>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x007fee5543f940>",
+    "#<ShopifyAPI::Option:0x007fee5543ebf8>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x007fee5543d0c8>",
+    "#<ShopifyAPI::Image:0x007fee5543c1c8>",
+    "#<ShopifyAPI::Image:0x007fee554333c0>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x007fee554319f8>"
+}
+{
+  "id": 1230604677,
+  "title": "HP 15 G023NE Laptop",
+  "body_html": "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"><span>Replace your old computer with the powerful HP 15 g023ne Notebook. The state of the portable computer comes fitted with advanced internal components like Dual Core AMD E1 2100 APU, 4GB RAM, and AMD Radeon HD 8210 Graphics processor that boost its overall performance by leaps and bounds. The device’s 15.6inch HD BrightView WLED backlit display churns out eye popping 1366 x 768p resolution images, making the computer ideal for watching movies, gaming, viewing high resolution photos, and all other tasks. The computer’s 802.11b/g/n specification WiFi and integrated 10/100 BASE T Ethernet LAN enable you to access both wired and wireless Internet. Built in 500GB SATA hard drive ensures you get ample space to save all your digital data securely. The notebook’s overall measurements of 37.8 x 26 x 2.5cm and a total weight of 2.23kg make it extremely portable.</span>",
+  "vendor": "newapp",
+  "product_type": "Laptops",
+  "created_at": "2015-07-23T12:05:18-04:00",
+  "handle": "hp-15-g023ne-laptop",
+  "updated_at": "2015-07-26T05:31:35-04:00",
+  "published_at": "2015-07-23T12:00:00-04:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    "#<ShopifyAPI::Variant:0x007fee55422250>",
+    "#<ShopifyAPI::Variant:0x007fee55417698>",
+    "#<ShopifyAPI::Variant:0x007fee55414948>",
+    "#<ShopifyAPI::Variant:0x007fee55405920>",
+    "#<ShopifyAPI::Variant:0x007fee553fa430>",
+    "#<ShopifyAPI::Variant:0x007fee553ea6e8>"
+  ],
+  "options": [
+    "#<ShopifyAPI::Option:0x007fee553d9b18>",
+    "#<ShopifyAPI::Option:0x007fee553d8880>"
+  ],
+  "images": [
+    "#<ShopifyAPI::Image:0x007fee553ce9c0>",
+    "#<ShopifyAPI::Image:0x007fee553cda20>",
+    "#<ShopifyAPI::Image:0x007fee553cc9e0>"
+  ],
+  "image": "#<ShopifyAPI::Image:0x007fee553bee80>"
+}

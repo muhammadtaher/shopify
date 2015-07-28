@@ -1,0 +1,24 @@
+%h1
+  = @customer.email
+%table{border:"1"}
+  %tr
+    %th
+      Name
+    %th
+      Created At
+    %th
+      Line items
+  - @orders.each do |order|
+    %tr
+      %td
+        = order.name 
+      %td
+        = order.created_at
+      %td
+        %ul 
+          - order.line_items.each do |item|
+            %li
+              = link_to item.name, show_variant_path(product_id: item.product_id,variant_id: item.variant_id) 
+              X
+              = item.quantity
+

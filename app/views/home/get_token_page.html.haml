@@ -1,0 +1,14 @@
+%h1
+  Products
+%ul
+  - @products.each do |product|
+    %li
+      = link_to product.title, show_product_path(product_id: product.id), id: product.id
+%h1
+  Orders
+%ul
+  - @customers.each do |customer|
+    %li
+      = link_to "Orders for "<<customer.email, show_customer_orders_path(customer_id: customer.id)
+= link_to "Show customers/orders page", customers_orders_path
+= @webhooks.inspect
